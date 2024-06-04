@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250504410817",
+    "project_id": "bibo-37551",
+    "storage_bucket": "bibo-37551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250504410817:android:26293d58c35ab2eb144640",
+        "android_client_info": {
+          "package_name": "com.bibo.usuario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hQrCi2-8ZjEidf7Wqr6mh2Emdb1zbvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
